@@ -4,7 +4,7 @@ This repository takes data from a database stored in MySQL and commits it to a C
   
 Steps:  
 1) First I create imaginary laboratory HPLC data in MySQL by running the Data.sql file in MySQL RDBMS
-2) Then I use python to connect to the database, extract the data, and write the data to a CSV file. The CSV file gets named as the date.
+2) Then I use python to connect to the database (using main.py file), extract the data, and write the data to a CSV file. The CSV file gets named as the date.
 3) [Optional] To automate the script to running daily, you can use Window's Task Schedule to automatically run at a certain time each day.  
 a) Open Window's Task Scheduler  
 ![Task Scheduler](https://github.com/david125tran/Database_to_CSV/blob/main/Images/1.png)  
