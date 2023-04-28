@@ -7,10 +7,15 @@ Steps:
 2) Then I use python to connect to the database, extract the data, and write the data to a CSV file. The CSV file gets named as the date.
 3) [Optional] To automate the script to running daily, you can use Window's Task Schedule to automatically run at a certain time each day.  
 a) Open Window's Task Scheduler  
+![Command Prompt](https://github.com/david125tran/Database_to_CSV/blob/main/Images/1.png)  
 b) Action --> Create Task...  
+![Command Prompt](https://github.com/david125tran/Database_to_CSV/blob/main/Images/2.png)  
 c) Give the trigger a name  
+![Command Prompt](https://github.com/david125tran/Database_to_CSV/blob/main/Images/3.png)  
 d) Trigger --> New --> Create a trigger that occurs daily  
+![Command Prompt](https://github.com/david125tran/Database_to_CSV/blob/main/Images/4.png)  
 e) Actions --> New... -->  
+![Command Prompt](https://github.com/david125tran/Database_to_CSV/blob/main/Images/5.png)  
 For "Program/script:", enter in your Python program's file.  
 To find our Pythom program file location, type "where python" in the command line.  It will return your python location on your Window's computer  
 ![Command Prompt](https://github.com/david125tran/Database_to_CSV/blob/main/Images/0.jpg)  
