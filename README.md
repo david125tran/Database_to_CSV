@@ -14,7 +14,8 @@ c) Give the trigger a name
 ![Trigger Name](https://github.com/david125tran/Database_to_CSV/blob/main/Images/3.jpg)  
 d) Trigger --> New --> Create a trigger that occurs daily  
 ![Create Trigger](https://github.com/david125tran/Database_to_CSV/blob/main/Images/4.jpg)  
-e) Actions --> New... -->  
+e) Create a new action:  
+Actions --> New... -->  
 ![Edit Action](https://github.com/david125tran/Database_to_CSV/blob/main/Images/5.jpg)  
 For "Program/script:", enter in your Python program's file.  
 To find our Pythom program file location, type "where python" in the command line.  It will return your python location on your Window's computer  
