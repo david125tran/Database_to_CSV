@@ -59,5 +59,7 @@ today = date.today()
 new_filename = f"{today}" + ".csv"
 
 # Create the CSV out of the data frame
-df.to_csv(new_filename, index = False, header = True)
+df.to_csv(new_filename, index = False, header = True) 
+# index = False <-- Makes CSV file without index column
+# header = True <-- Sets the headers of the dictionary to the column names of the CSV file
 
