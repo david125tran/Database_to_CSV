@@ -23,7 +23,7 @@ To find our Pythom program file location, type "where python" in the command lin
 For "Add arguments (optional)": main.py  
 For "start in (optional)": put the location of main.py  
   
-My "Edit Action" Entries:  
+# My "Edit Action" Entries:  
 Program/script: C:\Users\DTran\AppData\Local\Programs\Python\Python310\python.exe  
 Add arguments (optional): main.py  
 Start in (optional): C:\Users\DTran\Desktop\Coding\Python\Projects\Database to CSV  
