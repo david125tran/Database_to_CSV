@@ -13,7 +13,7 @@ d) Trigger --> New --> Create a trigger that occurs daily
 e) Actions --> New... -->  
 For "Program/script:", enter in your Python program's file.  
 To find our Pythom program file location, type "where python" in the command line.  It will return your python location on your Window's computer  
-![Command Prompt](https://github.com/david125tran/Database_to_CSV/blob/main/Images/0.jpg)
+![Command Prompt](https://github.com/david125tran/Database_to_CSV/blob/main/Images/0.jpg)  
 For "Add arguments (optional)": main.py  
 For "start in (optional)": put the location of main.py  
   
