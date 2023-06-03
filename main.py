@@ -1,6 +1,3 @@
-# -------------------------------- TERMINAL INSTALL REQUIREMENTS --------------------------------
-# pip install mysql-connector-python
-
 # -------------------------------- IMPORTS --------------------------------
 import pandas as pd
 import mysql.connector
